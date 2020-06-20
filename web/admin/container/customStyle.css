@@ -1,0 +1,113 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 20, 2020, 11:32:27 AM
+    Author     : DieuHuyen
+*/
+
+
+/* 
+    Header
+*/
+a header {
+    color: white !important
+}
+.toggle a i{
+    color: antiquewhite
+}
+.dropdown-menu>li>a{
+    color: white
+}
+.bg-red{
+    background-color: red !important
+}
+.nav_menu{
+    background: linear-gradient(70deg, #0089ff, #00a1ffb5)
+}
+.nav.navbar-nav>li>a{
+    color: white !important
+}
+.navbar-nav .open .dropdown-menu{
+    background: linear-gradient(45deg, #07c6ff, #3af4fd);
+}
+.dropdown-menu>li>a:focus, 
+.dropdown-menu>li>a:hover{
+    background-color:#ffffff8c
+}
+.top_nav .dropdown-menu li{
+    background: #ffffff00
+}
+.top_nav .nav .open>a,
+.top_nav .nav .open>a:focus,
+.top_nav .nav .open>a:hover,
+.top_nav .nav>li>a:focus,
+.top_nav .nav>li>a:hover{
+    background: #9370db3b
+}
+
+/* 
+    Header
+*/
+
+/* 
+    Side bar
+*/
+
+.left_col{
+    background:#ffffff
+}
+.nav_title{
+    background: #ffffff
+}
+
+.img-circle.profile_img{
+    width: 40%;
+    display: block;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile_name{
+    text-align: center;
+    
+}
+.menu_section h3{
+    color: #000000ba;
+    text-shadow: none
+}
+.sidebar-footer{
+    background: #ffffff
+}
+.sidebar-footer a{
+
+}
+.sidebar-footer a{
+    background: #ffffff;
+    color: #5bc0de
+}
+
+.nav.child_menu>li>a,
+.nav.side-menu>li>a{
+    color: #394863
+}
+.nav.side-menu>li.active>a{
+    text-shadow:none;
+    background:none;
+    
+}
+.nav.side-menu>li>a:hover{
+    color: #1abb9c !important
+}
+.nav li li.current-page a,
+.nav.child_menu li li a.active,
+.nav.child_menu li li a:hover{
+    color: #1abb9c
+}
+
+/* 
+    Side bar
+*/
+
