@@ -17,7 +17,7 @@ public class Connect {
         try {
             Class.forName("com.mysql.jdbc.Driver");
             String url = "jdbc:mysql://localhost:3306/mycoffee?zeroDateTimeBehavior=convertToNull";
-            return DriverManager.getConnection(url, "root", "Ltk99701299");
+            return DriverManager.getConnection(url, "****", "******");
         } catch (Exception e) {}
         return null;
     }
